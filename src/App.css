@@ -1,0 +1,16 @@
+.wrap{
+    height: auto;
+    width: 1500px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.first-container{
+    display: flex;
+}
+
+.second-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

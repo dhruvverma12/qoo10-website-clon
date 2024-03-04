@@ -1,0 +1,27 @@
+.top-head{
+    text-align: right;
+    padding: 10px 0;
+}
+
+.top-head a{
+    color: grey;
+}
+
+
+.child-div-container{
+    width: 100%;
+    display: flex;
+}
+
+.child-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    color: grey;
+}
+
+.child-div:hover{
+    background-color: #527FEF;
+    color: white;
+}

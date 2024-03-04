@@ -1,0 +1,45 @@
+.nav{
+    width: 100%;
+    padding: 10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.left-div img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.search-input{
+    width: 500px;
+    padding: 13px 10px;
+    border-radius: 30px;
+    font-size: 16px;
+}
+
+.right-div{
+    display: flex;
+}
+
+.div{
+    margin-right: 30px;
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.div p{
+    font-size: 16px;
+}
+
+.div:hover{
+    color: #527FEF;
+    cursor: pointer;
+}
+
+.share{
+    margin-right: 0;
+}

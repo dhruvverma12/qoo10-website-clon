@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Y2OzN1uiOT-yKrq5QHhUT
+SUMMARY:Hukumu | CAP-1.4_Frontend
+DTSTAMP:20240224T135734Z
+DTSTART:20240304T150000
+DESCRIPTION:Interview scheduled for CAP-1.4_Frontend at Mon Mar 04 2024 09:
+	30:00 GMT+0000 (Coordinated Universal Time)
+URL:https://hukumu.masaischool.com/interviews/75f43589-3700-4c37-9557-ac07e
+	0913779
+ORGANIZER;CN=Admin:MAILTO:revision@masaischool.com
+ATTENDEE;RSVP=FALSE;CN=Mo Zakir:mailto:mo.zakir@masaischool.com
+ATTENDEE;RSVP=FALSE;CN=Dhruv Verma:mailto:hustlingchan@gmail.com
+DURATION:PT60M
+END:VEVENT
+END:VCALENDAR
+

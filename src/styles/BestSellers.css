@@ -1,0 +1,30 @@
+.best-sellers-container{
+    max-width: 70%;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 20px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.top-div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.right-div p{
+    color: grey;
+    margin-right: 5px;
+}
+
+.right-div p:hover{
+    color: rgb(22, 73, 243);
+    cursor: pointer;
+}
+
+.best-sellers-container img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}

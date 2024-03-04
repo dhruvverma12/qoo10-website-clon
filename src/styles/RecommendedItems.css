@@ -1,0 +1,58 @@
+.main {
+    width: 400px;
+    padding: 20px;
+  }
+  
+  .topper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+  }
+  
+  .topper p {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  button {
+    background-color: #ffffff;
+    padding: 8px 12px;
+    border: 0.5px solid grey;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .product-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .product {
+    width: 48%;
+    margin: 1%;
+    border: 1px solid #ddd;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    overflow: hidden;
+  }
+  
+  .top-div img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .bottom-div {
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .bottom-div p {
+    font-size: 14px;
+  }
+  
+  .CiHeart {
+    color: #e74c3c;
+  }

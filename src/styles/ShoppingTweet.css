@@ -1,0 +1,26 @@
+.shopping-container{
+    width: 100%;
+    padding: 25px;
+}
+
+.shopping-bottom-div{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(5 , 250px);
+    gap: 30px;
+}
+
+.shopping-product{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.shopping-top-product-div {
+    height: 250px;
+}
+
+.shopping-top-product-div img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: top;
+}
